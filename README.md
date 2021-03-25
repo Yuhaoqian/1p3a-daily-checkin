@@ -28,7 +28,9 @@ pip install -r requirements.txt
 
 2. 安装`tesseract-ocr 4.0.0+`
 
-Tesseract的[使用教程](tesseract-tutorial.md)
+Tesseract的[安装及使用教程](tesseract-tutorial.md)
+
+安装好后，我们把[verify-codes.traineddata](verify-codes.traineddata)放入安装目录的`tessdata/`子目录下即可。
 
 3. example code
 
