@@ -38,3 +38,7 @@ Tesseract的[使用教程](tesseract-tutorial.md)
 ```
 
 
+### Reference
+
+1. https://github.com/Hanyang-Li/BotFarmer-1point3acres
+2. https://github.com/VividLau/1p3a_python_script
